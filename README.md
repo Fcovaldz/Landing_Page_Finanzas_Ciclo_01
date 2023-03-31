@@ -22,7 +22,7 @@ Practica. Reto Ciclo_01, Digital NAO, Tecmilenio
 
 Parte de código:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/792b4aa2-e1ba-43de-b872-9a6859f7a4f0/Untitled.png)
+
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/42add0bc-1d47-4042-89bc-8cc1d00f6c95/Untitled.png)
 
